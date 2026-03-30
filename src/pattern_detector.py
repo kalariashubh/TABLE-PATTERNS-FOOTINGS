@@ -209,6 +209,28 @@ REMARK
 Pattern 9 contains capital 'T' for thickness and no 't' in the header.
 
 =================================================
+PATTERN 10
+=================================================
+Header contains:
+
+FOOTING SCHEDULE
+FOOTING NUMBERS
+COLUMN NUMBERS
+FOOTING TYPE
+FOOTING DIMENSION - L
+FOOTING DIMENSION - B
+FOOTING DIMENSION - D
+FOOTING REINFORCEMENT - BOTTOM
+ALONG B 
+ALONG L
+FOOTING REINFORCEMENT - TOP
+ALONG B 
+ALONG L
+SFR
+REMARK
+
+=================================================
+
 
 Return ONLY the number.
 """
