@@ -36,6 +36,7 @@ Return ONLY one number:
 7
 8
 9
+10
 
 No explanation.
 No extra text.
